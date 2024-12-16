@@ -1,0 +1,192 @@
+[{
+    "_id": {
+      "$oid": "675bdf054a296fca02be9bc6"
+    },
+    "name": "Mountain Slider",
+    "description": "An all-around great choice for new or returning riders.",
+    "price": 90,
+    "stock": 56,
+    "categories": "All Mountain",
+    "img": "https://magnuskjall.se/Snow9/products/product_001.jpg",
+    "date": "Thu Dec 12 2024 10:36:39 GMT+0100 (Central European Standard Time)"
+  },
+  {
+    "_id": {
+      "$oid": "675bdf054a296fca02be9bc7"
+    },
+    "name": "Bergrisi Decent",
+    "description": "An old-school, strong, and reliable ride with great durability.",
+    "price": 130,
+    "stock": 14,
+    "categories": "All Mountain",
+    "img": "https://magnuskjall.se/Snow9/products/product_002.jpg",
+    "date": "Thu Dec 12 2024 10:36:39 GMT+0100 (Central European Standard Time)"
+  },
+  {
+    "_id": {
+      "$oid": "675bdf054a296fca02be9bc8"
+    },
+    "name": "DownHill",
+    "description": "A modern design with versatility to be used in all conditions.",
+    "price": 145,
+    "stock": 39,
+    "categories": "All Mountain",
+    "img": "https://magnuskjall.se/Snow9/products/product_003.jpg",
+    "date": "Thu Dec 12 2024 10:36:39 GMT+0100 (Central European Standard Time)"
+  },
+  {
+    "_id": {
+      "$oid": "675bdf054a296fca02be9bc9"
+    },
+    "name": "BERG X 4000s LIMITED",
+    "description": "A top-of-the-line, limited edition made by BestCompany AB.",
+    "price": 299,
+    "stock": 15,
+    "categories": "All Mountain",
+    "img": "https://magnuskjall.se/Snow9/products/product_004.jpg",
+    "date": "Thu Dec 12 2024 10:36:39 GMT+0100 (Central European Standard Time)"
+  },
+  {
+    "_id": {
+      "$oid": "675bdf054a296fca02be9bca"
+    },
+    "name": "Twinning",
+    "description": "A beautifully symmetrical board with a true twin shape.",
+    "price": 100,
+    "stock": 16,
+    "categories": "Freestyle",
+    "img": "https://magnuskjall.se/Snow9/products/product_005.jpg",
+    "date": "Thu Dec 12 2024 10:40:15 GMT+0100 (Central European Standard Time)"
+  },
+  {
+    "_id": {
+      "$oid": "675bdf054a296fca02be9bcb"
+    },
+    "name": "One More Jump v2",
+    "description": "For the rider who prefers to go fast and fly high, this lightweight board is the one.",
+    "price": 99,
+    "stock": 24,
+    "categories": "Freestyle",
+    "img": "https://magnuskjall.se/Snow9/products/product_006.jpg",
+    "date": "Thu Dec 12 2024 10:40:15 GMT+0100 (Central European Standard Time)"
+  },
+  {
+    "_id": {
+      "$oid": "675bdf054a296fca02be9bcc"
+    },
+    "name": "The Noob",
+    "description": "An forgiving board for the beginning or returning rider.",
+    "price": 95,
+    "stock": 5,
+    "categories": "Freestyle",
+    "img": "https://magnuskjall.se/Snow9/products/product_007.jpg",
+    "date": "Thu Dec 12 2024 10:40:15 GMT+0100 (Central European Standard Time)"
+  },
+  {
+    "_id": {
+      "$oid": "675bdf054a296fca02be9bcd"
+    },
+    "name": "StyleMaister Chromatic",
+    "description": "For the experienced, be warned.",
+    "price": 279,
+    "stock": 14,
+    "categories": "Freestyle",
+    "img": "https://magnuskjall.se/Snow9/products/product_008.jpg",
+    "date": "Thu Dec 12 2024 10:40:15 GMT+0100 (Central European Standard Time)"
+  },
+  {
+    "_id": {
+      "$oid": "675bdf054a296fca02be9bce"
+    },
+    "name": "Neige 4x",
+    "description": "A stiff and wide-nosed board, perfect for exploring new hills.",
+    "price": 179,
+    "stock": 9,
+    "categories": "Freeride",
+    "img": "https://magnuskjall.se/Snow9/products/product_009.jpg",
+    "date": "Thu Dec 12 2024 10:45:52 GMT+0100 (Central European Standard Time)"
+  },
+  {
+    "_id": {
+      "$oid": "675bdf054a296fca02be9bcf"
+    },
+    "name": "Based 9",
+    "description": "A very durable board with a tough base to last longer.",
+    "price": 110,
+    "stock": 10,
+    "categories": "Freeride",
+    "img": " ",
+    "date": "Thu Dec 12 2024 10:45:52 GMT+0100 (Central European Standard Time)"
+  },
+  {
+    "_id": {
+      "$oid": "675bdf054a296fca02be9bd0"
+    },
+    "name": "Rooty Road",
+    "description": "This board is designed for off-piste, offering stability, control, and float in varied terrain.",
+    "price": 200,
+    "stock": 2,
+    "categories": "Freeride",
+    "img": "https://magnuskjall.se/Snow9/products/product_010.jpg",
+    "date": "Thu Dec 12 2024 10:45:52 GMT+0100 (Central European Standard Time)"
+  },
+  {
+    "_id": {
+      "$oid": "675bdf054a296fca02be9bd1"
+    },
+    "name": "The Legend",
+    "description": "This legendary board is a favorite of top riders for its quality and design.",
+    "price": 300,
+    "stock": 90,
+    "categories": "Freeride",
+    "img": "https://magnuskjall.se/Snow9/products/product_011.jpg",
+    "date": "Thu Dec 12 2024 10:45:52 GMT+0100 (Central European Standard Time)"
+  },
+  {
+    "_id": {
+      "$oid": "675bdf054a296fca02be9bd2"
+    },
+    "name": "Snow Kidz",
+    "description": "Designed for intermediate riders, Snow Kidz has a balanced 120 cm length, combining stability and agility.",
+    "price": 80,
+    "stock": 0,
+    "categories": "Kids",
+    "img": "https://magnuskjall.se/Snow9/products/product_012.jpg",
+    "date": "Thu Dec 12 2024 10:49:08 GMT+0100 (Central European Standard Time)"
+  },
+  {
+    "_id": {
+      "$oid": "675bdf054a296fca02be9bd3"
+    },
+    "name": "SnowStar",
+    "description": "A 120 cm board for progressing riders, offering a mix of stability and agility for freestyle and all-mountain fun.",
+    "price": 85,
+    "stock": 24,
+    "categories": "Kids",
+    "img": "https://magnuskjall.se/Snow9/products/product_013.jpg",
+    "date": "Thu Dec 12 2024 10:49:08 GMT+0100 (Central European Standard Time)"
+  },
+  {
+    "_id": {
+      "$oid": "675bdf054a296fca02be9bd4"
+    },
+    "name": "Blizzard Troll",
+    "description": "A short, soft-flex board for beginners, 90 cm long, offering easy turns and control on gentle slopes.",
+    "price": 50,
+    "stock": 12,
+    "categories": "Kids",
+    "img": "https://magnuskjall.se/Snow9/products/product_014.jpg",
+    "date": "Thu Dec 12 2024 10:49:08 GMT+0100 (Central European Standard Time)"
+  },
+  {
+    "_id": {
+      "$oid": "675bdf054a296fca02be9bd5"
+    },
+    "name": "PowderPup",
+    "description": "A board for intermediate riders, providing stability and control for small hills and moderate terrain.",
+    "price": 75,
+    "stock": 3,
+    "categories": "Kids",
+    "img": "https://magnuskjall.se/Snow9/products/product_015.jpg",
+    "date": "Thu Dec 12 2024 10:49:08 GMT+0100 (Central European Standard Time)"
+  }]
